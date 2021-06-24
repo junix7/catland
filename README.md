@@ -1,5 +1,5 @@
 # catland
-a little website about cats, usign Syderal CSS
+a little website about cats, using Syderal CSS
 
 
 ![label image](https://img.shields.io/badge/status-in%20progress-yellow)
