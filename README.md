@@ -15,7 +15,7 @@ A simple syderal website
 2.- Abre ```index.html``` en tu navegador favorito.
 
 ## Demo 💿️
-![label image](https://github.com/junix7/front/blob/master/src/img/preview.png)
+![label image](https://github.com/junix7/catland/blob/master/src/img/preview.png)
 
 Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.io/catland/).
 
