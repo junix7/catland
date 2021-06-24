@@ -1,0 +1,29 @@
+a{
+	text-decoration: none;
+	color: teal;
+}
+a:hover{
+	color: peru;
+}
+.inputs{
+	width: 500px;
+	height: 50px;
+	color: peru;
+	margin-bottom: 15px;
+    background-color: #dfe;
+    border: 0;
+}
+.mensaje{
+	height: 150px;
+}
+.botoncito{
+	background-color: teal;
+	color: white;
+	padding: 15px 25px;
+	border-radius: 5px;
+}
+.botoncito:hover{
+	cursor: pointer;
+	background-color: peru;
+
+}
